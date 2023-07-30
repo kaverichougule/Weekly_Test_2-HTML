@@ -6,7 +6,8 @@ The content of the left panel is sourced from the "left.html" file, which contai
 
 # Project 1 ,Project 2, Project 3, Project 4
 ![image](https://github.com/kaverichougule/Weekly_Test_2-HTML/assets/101037685/62593d32-3305-41c7-b81b-8c57a9fa7c92)
-Each project title is displayed as a paragraph 'p' element, and a horizontal rule <hr> separates each title from its corresponding preview image. <br>
+
+Each project title is displayed as a paragraph 'p' element, and a horizontal rule 'hr' separates each title from its corresponding preview image. <br>
 Each project has an anchor 'a' tag that links to a specific URL of the project. The target attribute is set to "rightpanel," which means when a link is clicked, the content of the linked project will be displayed in the right panel (iframe with the name "rightpanel").
 
 'p': Represents a paragraph of text, used to display project titles.
